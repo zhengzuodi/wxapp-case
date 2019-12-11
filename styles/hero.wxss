@@ -36,3 +36,12 @@
 .hero.white {
   background: #ffffff;
 }
+
+.hero.small .header {
+  font-size: 56rpx;
+  margin-bottom: 48rpx;
+}
+
+.hero.small .sub-header {
+  font-size: 24rpx;
+}
