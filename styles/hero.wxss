@@ -32,3 +32,7 @@
   padding: 0 12%;
   margin-bottom: 32rpx;
 }
+
+.hero.white {
+  background: #ffffff;
+}
